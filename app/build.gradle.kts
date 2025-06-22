@@ -27,3 +27,15 @@ application {
 tasks.getByName("run", JavaExec::class) {
     standardInput = System.`in`
 }
+
+plugins {
+    id("org.sonarqube") version "6.2.0.5505"
+}
+
+sonar {
+    properties {
+        property("sonar.projectKey", "yespeace93_java-project-61")
+        property("sonar.organization", "yespeace93")
+        property("sonar.host.url", "https://sonarcloud.io")
+    }
+}

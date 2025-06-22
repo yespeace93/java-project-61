@@ -43,3 +43,4 @@ bin/
 
 ### My add ###
 *.class
+.idea/

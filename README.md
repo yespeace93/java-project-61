@@ -12,3 +12,6 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=yespeace93_java-project-61&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=yespeace93_java-project-61)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=yespeace93_java-project-61&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=yespeace93_java-project-61)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=yespeace93_java-project-61&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=yespeace93_java-project-61)
+
+Examples in the asciinema:
+https://asciinema.org/a/730315
